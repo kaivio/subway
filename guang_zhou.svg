@@ -1,0 +1,3895 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2100" height="2100" viewBox="0 0 2100 2100">
+  <rect x="0" y="0" width="2100" height="2100" fill="#fff"/>
+  <svg x="50.0" y="50.0" 
+    width="2000"
+    height="2000"
+    style="overflow: visible"
+  >
+    <path d="M1163,554L1225,554L1229,555L1233,556L1235,557L1237,559L1238,561L1238,563L1238,598L1238,638L1238,641L1238,643L1237,645L1235,646L1233,647L1231,648L1227,649L1223,649L1197,649L1163,649L1109,649L1046,648L997,648L944,648L894,648L821,648L758,647L748,647L719,647L701,647L694,647L691,648L689,649L688,650L687,652L687,655L687,659L687,678L688,706L688,733L688,759L688,787L689,817" stroke="#FCD600" stroke-width="2" fill="none"/>
+            <text x="690" y="621"
+                 stroke-width="0.75em"
+                 stroke="#FCD600"
+                
+            >1号线</text>
+            <text x="690" y="621"
+                fill="#FFF" 
+                
+            >1号线</text>
+            <path d="M871,1069L805,1069L746,1069L705,1090L650,1090L592,1090L532,1090L464,1090L399,1090L325,1090L248,1091L162,1091L158,1090L155,1088L153,1086L151,1084L151,1055L151,1052L150,1050L148,1049L146,1049L131,1049L68,1049L18,1049L5,1049L3,1049L1,1050L0,1051L0,1053L0,1066L0,1092" stroke="#FC0601" stroke-width="2" fill="none"/>
+            <text x="61" y="1107"
+                 stroke-width="0.75em"
+                 stroke="#FC0601"
+                
+            >佛山2号线</text>
+            <text x="61" y="1107"
+                fill="#FFF" 
+                
+            >佛山2号线</text>
+            <path d="M871,1069L885,1058L894,1051L915,1035L922,1028L924,1028L942,1014L960,1001L983,982L984,981L985,979L985,968L984,942L984,915L984,907L983,905L982,904L939,872L938,871L906,849L896,841L894,839L894,835L894,824L894,784L894,752L894,707L894,648L894,624L894,604L894,576L894,564L894,536L894,520L895,516L897,513L901,510L914,496L916,496L943,473L943,472L971,448L971,447L999,422L1026,399L1052,375L1082,349" stroke="#0065B3" stroke-width="2" fill="none"/>
+            <text x="978" y="385"
+                 stroke-width="0.75em"
+                 stroke="#0065B3"
+                
+            >2号线</text>
+            <text x="978" y="385"
+                fill="#FFF" 
+                
+            >2号线</text>
+            <path d="M1279,508L1284,509L1288,510L1291,511L1293,513L1295,516L1295,518L1295,521L1295,537L1294,578L1294,619L1294,643L1294,645L1294,647L1292,648L1290,649L1288,649L1265,649L1223,649L1197,649L1163,649L1163,654L1163,708L1164,776L1164,825L1164,871L1164,915L1164,945L1164,982L1164,1020L1164,1030L1165,1032L1166,1034L1208,1062L1253,1090" stroke="#FFA500" stroke-width="2" fill="none"/>
+            <text x="1326" y="604"
+                 stroke-width="0.75em"
+                 stroke="#FFA500"
+                
+            >3号线</text>
+            <text x="1326" y="604"
+                fill="#FFF" 
+                
+            >3号线</text>
+            <path d="M1083,143L1083,171L1083,172L1083,225L1082,238L1082,267L1082,310L1082,337L1082,349L1082,359L1083,365L1084,368L1085,371L1095,379L1109,389L1119,398L1132,408L1143,416L1155,426L1159,430L1162,434L1162,439L1163,446L1163,476L1163,508L1163,554L1163,592L1163,649" stroke="#FFA500" stroke-width="2" fill="none"/>
+            <text x="1267" y="416"
+                 stroke-width="0.75em"
+                 stroke="#FFA500"
+                
+            >3号线(北延段)</text>
+            <text x="1267" y="416"
+                fill="#FFF" 
+                
+            >3号线(北延段)</text>
+            <path d="M1759,1163L1750,1171L1740,1181L1737,1182L1734,1183L1730,1183L1717,1183L1684,1183L1670,1183L1665,1183L1661,1182L1658,1180L1651,1173L1635,1157L1634,1156L1618,1141L1601,1125L1584,1108L1567,1091L1550,1075L1549,1074L1532,1058L1515,1041L1498,1025L1481,1008L1463,991L1439,967L1438,966L1421,950L1399,929L1382,912L1380,909L1377,906L1376,902L1375,897L1375,868L1374,825L1374,769L1374,708L1403,677L1429,649" stroke="#018237" stroke-width="2" fill="none"/>
+            <text x="1541" y="966"
+                 stroke-width="0.75em"
+                 stroke="#018237"
+                
+            >4号线</text>
+            <text x="1541" y="966"
+                fill="#FFF" 
+                
+            >4号线</text>
+            <path d="M496,690L540,662L586,633L586,632L631,604L666,581L690,566L694,564L698,563L703,563L750,563L756,563L813,564L894,564L914,564L916,564L918,565L919,565L936,578L951,590L952,590L953,591L954,591L992,591L1046,591L1083,592L1102,592L1105,592L1107,593L1108,595L1109,598L1109,625L1109,649L1110,678L1110,702L1110,705L1111,706L1113,707L1116,708L1163,708L1197,708L1226,708L1271,708L1300,708L1338,708L1374,708L1399,708L1403,708L1406,709L1408,711L1429,731L1453,755L1468,770L1471,773L1474,775L1478,775L1481,776L1494,776L1500,776L1532,776L1559,776L1589,776L1590,776" stroke="#C5003E" stroke-width="2" fill="none"/>
+            <text x="476" y="734"
+                 stroke-width="0.75em"
+                 stroke="#C5003E"
+                
+            >5号线</text>
+            <text x="476" y="734"
+                fill="#FFF" 
+                
+            >5号线</text>
+            <path d="M508,500L537,530L538,531L566,560L583,577L584,579L585,581L585,606L585,632L586,633L586,663L587,665L588,666L611,685L612,685L634,703L637,705L643,706L650,706L688,706L759,707L819,707L894,707L932,707L974,707L1016,707L1034,707L1038,707L1041,707L1043,706L1045,704L1046,702L1046,698L1046,680L1046,648L1046,625L1046,591L1046,565L1046,536L1046,519L1046,515L1047,512L1049,511L1051,509L1055,508L1061,508L1070,508L1120,508L1163,508L1226,508L1279,508L1280,508L1284,508L1288,507L1291,506L1294,505L1317,488L1340,471L1345,468L1347,467L1350,466L1384,466L1414,466L1443,466L1474,466L1501,466L1502,466L1530,466L1558,466L1586,466L1613,466" stroke="#741D51" stroke-width="2" fill="none"/>
+            <text x="1028" y="494"
+                 stroke-width="0.75em"
+                 stroke="#741D51"
+                
+            >6号线</text>
+            <text x="1028" y="494"
+                fill="#FFF" 
+                
+            >6号线</text>
+            <path d="M871,1069L885,1058L894,1051L915,1035L922,1028L924,1028L929,1025L934,1023L939,1021L943,1021L948,1020L966,1020L1032,1020L1096,1020L1164,1020L1218,1019L1252,1019L1275,1019L1318,1019L1323,1019L1329,1017L1333,1015L1363,993L1421,950" stroke="#86B81C" stroke-width="2" fill="none"/>
+            <text x="766" y="1149"
+                 stroke-width="0.75em"
+                 stroke="#86B81C"
+                
+            >7号线</text>
+            <text x="766" y="1149"
+                fill="#FFF" 
+                
+            >7号线</text>
+            <path d="M628,289L671,311L711,331L746,350L751,352L752,354L754,355L755,358L755,360L755,364L756,394L756,430L755,465L756,503L756,536L756,563L757,619L758,647L759,686L759,707L782,745L807,786L826,818L829,822L832,824L833,824L834,824L864,824L894,824L962,824L1033,825L1104,825L1164,825L1211,825L1251,825L1294,825L1336,825L1374,825" stroke="#008187" stroke-width="2" fill="none"/>
+            <text x="1054" y="862"
+                 stroke-width="0.75em"
+                 stroke="#008187"
+                
+            >8号线</text>
+            <text x="1054" y="862"
+                fill="#FFF" 
+                
+            >8号线</text>
+            <path d="M1083,225L1079,222L1077,221L1074,220L1050,220L1021,220L967,220L950,220L945,220L940,218L935,215L928,208L920,201L909,192L905,189L900,187L893,186L882,186L855,186L835,186L820,186L813,187L808,189L804,192L794,203L793,203L784,214L781,217L778,219L775,220L769,220L752,220L709,220L663,220L634,220L615,220" stroke="#64BD91" stroke-width="2" fill="none"/>
+            <text x="854" y="235"
+                 stroke-width="0.75em"
+                 stroke="#64BD91"
+                
+            >9号线</text>
+            <text x="854" y="235"
+                fill="#FFF" 
+                
+            >9号线</text>
+            <path d="M1500,776L1516,799L1529,818L1531,820L1534,821L1538,821L1551,821L1569,821L1587,821L1601,821L1621,821L1635,821L1658,821L1669,821L1673,821L1677,819L1697,806L1722,789L1737,779L1749,771L1766,760L1770,758L1775,758L1800,758L1824,758L1840,758L1869,758L1880,758" stroke="#818530" stroke-width="2" fill="none"/>
+            <text x="1683" y="857"
+                 stroke-width="0.75em"
+                 stroke="#818530"
+                
+            >13号线</text>
+            <text x="1683" y="857"
+                fill="#FFF" 
+                
+            >13号线</text>
+            <path d="M1082,349L1121,349L1126,348L1129,347L1132,346L1135,345L1136,345L1138,343L1138,343L1151,321L1174,288L1194,261L1217,228L1239,198L1262,168L1284,138L1306,105L1331,69L1355,36L1380,0" stroke="#871C2A" stroke-width="2" fill="none"/>
+            <text x="1459" y="76"
+                 stroke-width="0.75em"
+                 stroke="#871C2A"
+                
+            >14号线</text>
+            <text x="1459" y="76"
+                fill="#FFF" 
+                
+            >14号线</text>
+            <path d="M1262,168L1292,187L1293,188L1321,205L1322,206L1352,226L1384,246L1415,266L1446,286L1479,307L1511,328L1526,338L1529,339L1532,340L1552,340L1574,340" stroke="#871C2A" stroke-width="2" fill="none"/>
+            <text x="1390" y="367"
+                 stroke-width="0.75em"
+                 stroke="#871C2A"
+                
+            >14号线支线(知识城线)</text>
+            <text x="1390" y="367"
+                fill="#FFF" 
+                
+            >14号线支线(知识城线)</text>
+            <path d="M1250,687L1250,713L1250,746L1251,825L1251,863L1251,901L1252,944L1252,983L1252,1019L1253,1055L1253,1090L1253,1112L1253,1133" stroke="#2249A3" stroke-width="2" fill="none"/>
+            <text x="1244" y="1222"
+                 stroke-width="0.75em"
+                 stroke="#2249A3"
+                
+            >18号线</text>
+            <text x="1244" y="1222"
+                fill="#FFF" 
+                
+            >18号线</text>
+            <path d="M1300,708L1300,679L1300,654L1300,654L1300,653L1300,652L1301,651L1302,651L1302,650L1303,650L1305,649L1361,649L1429,649L1428,604L1428,562L1427,498L1427,498L1427,497L1427,496L1428,496L1429,495L1431,495L1466,495L1512,495L1553,494L1555,494L1557,494L1558,493L1558,492L1559,492L1558,466L1557,438L1556,410L1556,386L1555,358L1572,342L1572,342L1572,341L1573,340L1574,340L1574,340L1617,340L1659,340L1703,340L1746,340L1786,340L1830,340L1873,340" stroke="#0C1335" stroke-width="2" fill="none"/>
+            <text x="2000" y="339"
+                 stroke-width="0.75em"
+                 stroke="#0C1335"
+                direction="rtl"
+            >21号线</text>
+            <text x="2000" y="339"
+                fill="#FFF" 
+                direction="rtl"
+            >21号线</text>
+            <path d="M1164,776L1191,776L1194,776L1195,775L1197,774L1198,772L1198,768L1198,765L1198,751L1198,733L1197,708L1197,687L1197,667L1197,649L1197,635L1197,610L1197,597L1197,595L1195,594L1194,592L1191,592L1189,592L1163,592" stroke="#02B6E3" stroke-width="2" fill="none"/>
+            <text x="1062" y="773"
+                 stroke-width="0.75em"
+                 stroke="#02B6E3"
+                
+            >APM线</text>
+            <text x="1062" y="773"
+                fill="#FFF" 
+                
+            >APM线</text>
+            <path d="M1164,915L984,915L890,915L878,914L870,914L868,914L866,914L865,913L863,913L860,911L840,898L839,896L837,894L835,891L835,874L835,853L834,828L834,827L834,826L833,825L832,824L829,822L826,818L825,818L824,817L823,817L782,817L738,817L689,817L628,818L576,818L575,818L523,818L522,818L505,818L501,818L497,819L493,820L491,822L489,825L489,828L489,846L489,847L489,882L489,916L489,933L488,937L486,940L483,942L480,943L475,944L446,944L399,944L354,944L339,944L334,944L331,945L328,947L326,949L324,951L324,954L324,966L325,1013L325,1052L325,1090L325,1128L326,1130L327,1133L329,1134L331,1135L333,1136L356,1136L406,1136L453,1136" stroke="#B8D201" stroke-width="2" fill="none"/>
+            <text x="597" y="878"
+                 stroke-width="0.75em"
+                 stroke="#B8D201"
+                
+            >广佛线</text>
+            <text x="597" y="878"
+                fill="#FFF" 
+                
+            >广佛线</text>
+            <circle 
+                cx="689" cy="817" 
+                r="6" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="689" cy="817" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="688" cy="787" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="688" cy="759" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="688" cy="733" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="688" cy="706" 
+                r="6" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="688" cy="706" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="687" cy="678" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="758" cy="647" 
+                r="6" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="758" cy="647" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="821" cy="648" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="648" 
+                r="6" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="648" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="944" cy="648" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="997" cy="648" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1046" cy="648" 
+                r="6" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1046" cy="648" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1109" cy="649" 
+                r="6" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1109" cy="649" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="649" 
+                r="8" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="649" 
+                r="6" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="649" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1238" cy="598" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="554" 
+                r="6" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="554" 
+                r="4" 
+                stroke="#FCD600"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="871" cy="1069" 
+                r="6" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="871" cy="1069" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="805" cy="1069" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="746" cy="1069" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="705" cy="1090" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="650" cy="1090" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="592" cy="1090" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="532" cy="1090" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="464" cy="1090" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="399" cy="1090" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="325" cy="1090" 
+                r="6" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="325" cy="1090" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="248" cy="1091" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="162" cy="1091" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="131" cy="1049" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="68" cy="1049" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="18" cy="1049" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="0" cy="1066" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="0" cy="1092" 
+                r="4" 
+                stroke="#FC0601"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="923" cy="1029" 
+                r="6" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="923" cy="1029" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="960" cy="1001" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="985" cy="968" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="984" cy="942" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="984" cy="915" 
+                r="6" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="984" cy="915" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="938" cy="872" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="906" cy="849" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="824" 
+                r="6" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="824" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="784" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="752" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="707" 
+                r="6" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="707" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="624" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="604" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="564" 
+                r="6" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="564" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="894" cy="536" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="915" cy="497" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="943" cy="472" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="971" cy="447" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="999" cy="422" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1026" cy="399" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1052" cy="375" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1082" cy="349" 
+                r="8" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1082" cy="349" 
+                r="6" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1082" cy="349" 
+                r="4" 
+                stroke="#0065B3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1253" cy="1090" 
+                r="6" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1253" cy="1090" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1208" cy="1062" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="1020" 
+                r="6" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="1020" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="982" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="945" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="915" 
+                r="6" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="915" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="871" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="825" 
+                r="6" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="825" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="776" 
+                r="6" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1164" cy="776" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="708" 
+                r="6" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="708" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1265" cy="649" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1294" cy="619" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1294" cy="578" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1295" cy="537" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1280" cy="508" 
+                r="6" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1280" cy="508" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1083" cy="143" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1083" cy="171" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1083" cy="225" 
+                r="6" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1083" cy="225" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1082" cy="267" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1082" cy="310" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1095" cy="379" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1119" cy="398" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1143" cy="416" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="446" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="476" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="508" 
+                r="6" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="508" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="592" 
+                r="6" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1163" cy="592" 
+                r="4" 
+                stroke="#FFA500"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1429" cy="649" 
+                r="6" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1429" cy="649" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1403" cy="677" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1374" cy="708" 
+                r="6" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1374" cy="708" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1374" cy="825" 
+                r="6" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1374" cy="825" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1375" cy="868" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1399" cy="929" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1421" cy="950" 
+                r="6" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1421" cy="950" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1438" cy="967" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1463" cy="991" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1481" cy="1008" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1498" cy="1025" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1515" cy="1041" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1532" cy="1058" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1549" cy="1075" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1567" cy="1091" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1584" cy="1108" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1601" cy="1125" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1618" cy="1141" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1634" cy="1157" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1651" cy="1173" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1684" cy="1183" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1717" cy="1183" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1759" cy="1163" 
+                r="4" 
+                stroke="#018237"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="496" cy="690" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="586" cy="632" 
+                r="6" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="586" cy="632" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="631" cy="604" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="666" cy="581" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="756" cy="563" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="936" cy="578" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="992" cy="591" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1046" cy="591" 
+                r="6" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1046" cy="591" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1083" cy="592" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1110" cy="678" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1226" cy="708" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1271" cy="708" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1300" cy="708" 
+                r="6" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1300" cy="708" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1338" cy="708" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1429" cy="731" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1453" cy="755" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1500" cy="776" 
+                r="6" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1500" cy="776" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1532" cy="776" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1559" cy="776" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1589" cy="776" 
+                r="4" 
+                stroke="#C5003E"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1613" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1586" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1558" cy="466" 
+                r="6" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1558" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1530" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1501" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1474" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1443" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1414" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1384" cy="466" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1340" cy="471" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1317" cy="488" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1120" cy="508" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1046" cy="536" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1046" cy="565" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1016" cy="707" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="974" cy="707" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="932" cy="707" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="819" cy="707" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="759" cy="707" 
+                r="6" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="759" cy="707" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="612" cy="686" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="585" cy="606" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="566" cy="560" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="538" cy="530" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="508" cy="500" 
+                r="4" 
+                stroke="#741D51"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1363" cy="993" 
+                r="4" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1318" cy="1019" 
+                r="4" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1252" cy="1019" 
+                r="6" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1252" cy="1019" 
+                r="4" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1096" cy="1020" 
+                r="4" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1032" cy="1020" 
+                r="4" 
+                stroke="#86B81C"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="628" cy="289" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="671" cy="311" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="711" cy="331" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="755" cy="364" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="756" cy="394" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="756" cy="430" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="755" cy="465" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="756" cy="503" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="756" cy="536" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="759" cy="686" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="782" cy="745" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="807" cy="786" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="829" cy="822" 
+                r="6" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="829" cy="822" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="864" cy="824" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="962" cy="824" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1033" cy="825" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1104" cy="825" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1211" cy="825" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1251" cy="825" 
+                r="6" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1251" cy="825" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1294" cy="825" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1336" cy="825" 
+                r="4" 
+                stroke="#008187"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1021" cy="220" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="967" cy="220" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="920" cy="201" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="882" cy="186" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="835" cy="186" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="794" cy="204" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="752" cy="220" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="709" cy="220" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="663" cy="220" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="615" cy="220" 
+                r="4" 
+                stroke="#64BD91"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1551" cy="821" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1587" cy="821" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1621" cy="821" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1658" cy="821" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1697" cy="806" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1722" cy="789" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1749" cy="771" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1800" cy="758" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1840" cy="758" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1880" cy="758" 
+                r="4" 
+                stroke="#818530"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1138" cy="343" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1151" cy="321" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1174" cy="288" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1194" cy="261" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1217" cy="228" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1239" cy="198" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1262" cy="168" 
+                r="6" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1262" cy="168" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1284" cy="138" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1306" cy="105" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1331" cy="69" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1355" cy="36" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1380" cy="0" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1293" cy="187" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1321" cy="206" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1352" cy="226" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1384" cy="246" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1415" cy="266" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1446" cy="286" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1479" cy="307" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1511" cy="328" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1574" cy="340" 
+                r="6" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1574" cy="340" 
+                r="4" 
+                stroke="#871C2A"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1250" cy="687" 
+                r="4" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1251" cy="901" 
+                r="4" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1252" cy="983" 
+                r="4" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1253" cy="1112" 
+                r="4" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1253" cy="1133" 
+                r="4" 
+                stroke="#2249A3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1300" cy="679" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1361" cy="649" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1428" cy="604" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1428" cy="562" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1466" cy="495" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1512" cy="495" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1557" cy="438" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1556" cy="410" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1556" cy="386" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1555" cy="358" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1617" cy="340" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1659" cy="340" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1703" cy="340" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1746" cy="340" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1786" cy="340" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1830" cy="340" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1873" cy="340" 
+                r="4" 
+                stroke="#0C1335"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1198" cy="768" 
+                r="4" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1198" cy="751" 
+                r="4" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1198" cy="733" 
+                r="4" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1197" cy="687" 
+                r="4" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1197" cy="667" 
+                r="4" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1197" cy="635" 
+                r="4" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="1197" cy="610" 
+                r="4" 
+                stroke="#02B6E3"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="878" cy="914" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="835" cy="874" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="782" cy="817" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="738" cy="817" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="628" cy="818" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="575" cy="818" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="522" cy="818" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="489" cy="846" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="489" cy="882" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="489" cy="916" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="446" cy="944" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="399" cy="944" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="354" cy="944" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="324" cy="966" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="325" cy="1013" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="325" cy="1052" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="325" cy="1128" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="356" cy="1136" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="406" cy="1136" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><circle 
+                cx="453" cy="1136" 
+                r="4" 
+                stroke="#B8D201"
+                stroke-width="2"
+                fill="#fff" 
+            /><text
+            font-size="10"
+            x="689"
+            y="831"
+            dx="-1.0em"
+            
+        >西塱</text>
+        <text
+            font-size="10"
+            x="698"
+            y="791"
+            dx="0"
+            
+        >坑口</text>
+        <text
+            font-size="10"
+            x="698"
+            y="763"
+            dx="0"
+            
+        >花地湾</text>
+        <text
+            font-size="10"
+            x="698"
+            y="737"
+            dx="0"
+            
+        >芳村</text>
+        <text
+            font-size="10"
+            x="678"
+            y="720"
+            dx="0"
+            direction="rtl"
+        >黄沙</text>
+        <text
+            font-size="10"
+            x="697"
+            y="682"
+            dx="0"
+            
+        >长寿路</text>
+        <text
+            font-size="10"
+            x="768"
+            y="637"
+            dx="0"
+            
+        >陈家祠</text>
+        <text
+            font-size="10"
+            x="821"
+            y="638"
+            dx="-1.5em"
+            
+        >西门口</text>
+        <text
+            font-size="10"
+            x="904"
+            y="662"
+            dx="0"
+            
+        >公园前</text>
+        <text
+            font-size="10"
+            x="944"
+            y="638"
+            dx="-1.5em"
+            
+        >农讲所</text>
+        <text
+            font-size="10"
+            x="997"
+            y="638"
+            dx="-2.0em"
+            
+        >烈士陵园</text>
+        <text
+            font-size="10"
+            x="1036"
+            y="662"
+            dx="0"
+            direction="rtl"
+        >东山口</text>
+        <text
+            font-size="10"
+            x="1099"
+            y="639"
+            dx="0"
+            direction="rtl"
+        >杨箕</text>
+        <text
+            font-size="10"
+            x="1153"
+            y="663"
+            dx="0"
+            direction="rtl"
+        >体育西路</text>
+        <text
+            font-size="10"
+            x="1248"
+            y="602"
+            dx="0"
+            
+        >体育中心</text>
+        <text
+            font-size="10"
+            x="1173"
+            y="568"
+            dx="0"
+            
+        >广州东站</text>
+        <text
+            font-size="10"
+            x="871"
+            y="1083"
+            dx="-2.0em"
+            
+        >广州南站</text>
+        <text
+            font-size="10"
+            x="805"
+            y="1059"
+            dx="-1.5em"
+            
+        >林岳东</text>
+        <text
+            font-size="10"
+            x="746"
+            y="1059"
+            dx="-1.5em"
+            
+        >林岳西</text>
+        <text
+            font-size="10"
+            x="705"
+            y="1080"
+            dx="-1.0em"
+            
+        >石洲</text>
+        <text
+            font-size="10"
+            x="650"
+            y="1080"
+            dx="-1.0em"
+            
+        >仙涌</text>
+        <text
+            font-size="10"
+            x="592"
+            y="1080"
+            dx="-2.0em"
+            
+        >花卉世界</text>
+        <text
+            font-size="10"
+            x="532"
+            y="1080"
+            dx="-1.0em"
+            
+        >登洲</text>
+        <text
+            font-size="10"
+            x="464"
+            y="1080"
+            dx="-1.0em"
+            
+        >湾华</text>
+        <text
+            font-size="10"
+            x="399"
+            y="1104"
+            dx="-1.0em"
+            
+        >石梁</text>
+        <text
+            font-size="10"
+            x="315"
+            y="1080"
+            dx="0"
+            direction="rtl"
+        >魁奇路</text>
+        <text
+            font-size="10"
+            x="248"
+            y="1105"
+            dx="-1.0em"
+            
+        >沙岗</text>
+        <text
+            font-size="10"
+            x="162"
+            y="1105"
+            dx="-1.0em"
+            
+        >石湾</text>
+        <text
+            font-size="10"
+            x="131"
+            y="1039"
+            dx="-1.0em"
+            
+        >张槎</text>
+        <text
+            font-size="10"
+            x="68"
+            y="1063"
+            dx="-2.0em"
+            
+        >智慧新城</text>
+        <text
+            font-size="10"
+            x="18"
+            y="1039"
+            dx="-1.5em"
+            
+        >绿岛湖</text>
+        <text
+            font-size="10"
+            x="-10"
+            y="1070"
+            dx="0"
+            direction="rtl"
+        >湖涌</text>
+        <text
+            font-size="10"
+            x="-10"
+            y="1096"
+            dx="0"
+            direction="rtl"
+        >南庄</text>
+        <text
+            font-size="10"
+            x="933"
+            y="1033"
+            dx="0"
+            
+        >石壁</text>
+        <text
+            font-size="10"
+            x="970"
+            y="1005"
+            dx="0"
+            
+        >会江</text>
+        <text
+            font-size="10"
+            x="995"
+            y="972"
+            dx="0"
+            
+        >南浦</text>
+        <text
+            font-size="10"
+            x="994"
+            y="946"
+            dx="0"
+            
+        >洛溪</text>
+        <text
+            font-size="10"
+            x="994"
+            y="905"
+            dx="0"
+            
+        >南洲</text>
+        <text
+            font-size="10"
+            x="948"
+            y="876"
+            dx="0"
+            
+        >东晓南</text>
+        <text
+            font-size="10"
+            x="916"
+            y="853"
+            dx="0"
+            
+        >江泰路</text>
+        <text
+            font-size="10"
+            x="904"
+            y="814"
+            dx="0"
+            
+        >昌岗</text>
+        <text
+            font-size="10"
+            x="904"
+            y="788"
+            dx="0"
+            
+        >江南西</text>
+        <text
+            font-size="10"
+            x="904"
+            y="756"
+            dx="0"
+            
+        >市二宫</text>
+        <text
+            font-size="10"
+            x="884"
+            y="697"
+            dx="0"
+            direction="rtl"
+        >海珠广场</text>
+        <text
+            font-size="10"
+            x="904"
+            y="628"
+            dx="0"
+            
+        >纪念堂</text>
+        <text
+            font-size="10"
+            x="904"
+            y="608"
+            dx="0"
+            
+        >越秀公园</text>
+        <text
+            font-size="10"
+            x="884"
+            y="578"
+            dx="0"
+            direction="rtl"
+        >广州火车站</text>
+        <text
+            font-size="10"
+            x="904"
+            y="540"
+            dx="0"
+            
+        >三元里</text>
+        <text
+            font-size="10"
+            x="925"
+            y="501"
+            dx="0"
+            
+        >飞翔公园</text>
+        <text
+            font-size="10"
+            x="953"
+            y="476"
+            dx="0"
+            
+        >白云公园</text>
+        <text
+            font-size="10"
+            x="981"
+            y="451"
+            dx="0"
+            
+        >白云文化广场</text>
+        <text
+            font-size="10"
+            x="1009"
+            y="426"
+            dx="0"
+            
+        >萧岗</text>
+        <text
+            font-size="10"
+            x="1036"
+            y="403"
+            dx="0"
+            
+        >江夏</text>
+        <text
+            font-size="10"
+            x="1062"
+            y="379"
+            dx="0"
+            
+        >黄边</text>
+        <text
+            font-size="10"
+            x="1072"
+            y="339"
+            dx="0"
+            direction="rtl"
+        >嘉禾望岗</text>
+        <text
+            font-size="10"
+            x="1263"
+            y="1094"
+            dx="0"
+            
+        >番禺广场</text>
+        <text
+            font-size="10"
+            x="1198"
+            y="1066"
+            dx="0"
+            direction="rtl"
+        >市桥</text>
+        <text
+            font-size="10"
+            x="1154"
+            y="1034"
+            dx="0"
+            direction="rtl"
+        >汉溪长隆</text>
+        <text
+            font-size="10"
+            x="1154"
+            y="986"
+            dx="0"
+            direction="rtl"
+        >大石</text>
+        <text
+            font-size="10"
+            x="1154"
+            y="949"
+            dx="0"
+            direction="rtl"
+        >厦滘</text>
+        <text
+            font-size="10"
+            x="1174"
+            y="905"
+            dx="0"
+            
+        >沥滘</text>
+        <text
+            font-size="10"
+            x="1154"
+            y="875"
+            dx="0"
+            direction="rtl"
+        >大塘</text>
+        <text
+            font-size="10"
+            x="1154"
+            y="839"
+            dx="0"
+            direction="rtl"
+        >客村</text>
+        <text
+            font-size="10"
+            x="1154"
+            y="780"
+            dx="0"
+            direction="rtl"
+        >广州塔</text>
+        <text
+            font-size="10"
+            x="1153"
+            y="722"
+            dx="0"
+            direction="rtl"
+        >珠江新城</text>
+        <text
+            font-size="10"
+            x="1265"
+            y="663"
+            dx="-1.5em"
+            
+        >石牌桥</text>
+        <text
+            font-size="10"
+            x="1304"
+            y="623"
+            dx="0"
+            
+        >岗顶</text>
+        <text
+            font-size="10"
+            x="1304"
+            y="582"
+            dx="0"
+            
+        >华师</text>
+        <text
+            font-size="10"
+            x="1305"
+            y="541"
+            dx="0"
+            
+        >五山</text>
+        <text
+            font-size="10"
+            x="1270"
+            y="498"
+            dx="0"
+            direction="rtl"
+        >天河客运站</text>
+        <text
+            font-size="10"
+            x="1093"
+            y="147"
+            dx="0"
+            
+        >机场北(2号航站楼)</text>
+        <text
+            font-size="10"
+            x="1093"
+            y="175"
+            dx="0"
+            
+        >机场南(1号航站楼)</text>
+        <text
+            font-size="10"
+            x="1093"
+            y="229"
+            dx="0"
+            
+        >高增</text>
+        <text
+            font-size="10"
+            x="1092"
+            y="271"
+            dx="0"
+            
+        >人和</text>
+        <text
+            font-size="10"
+            x="1092"
+            y="314"
+            dx="0"
+            
+        >龙归</text>
+        <text
+            font-size="10"
+            x="1105"
+            y="383"
+            dx="0"
+            
+        >白云大道北</text>
+        <text
+            font-size="10"
+            x="1129"
+            y="402"
+            dx="0"
+            
+        >永泰</text>
+        <text
+            font-size="10"
+            x="1153"
+            y="420"
+            dx="0"
+            
+        >同和</text>
+        <text
+            font-size="10"
+            x="1173"
+            y="450"
+            dx="0"
+            
+        >京溪南方医院</text>
+        <text
+            font-size="10"
+            x="1173"
+            y="480"
+            dx="0"
+            
+        >梅花园</text>
+        <text
+            font-size="10"
+            x="1173"
+            y="522"
+            dx="0"
+            
+        >燕塘</text>
+        <text
+            font-size="10"
+            x="1153"
+            y="596"
+            dx="0"
+            direction="rtl"
+        >林和西</text>
+        <text
+            font-size="10"
+            x="1439"
+            y="639"
+            dx="0"
+            
+        >黄村</text>
+        <text
+            font-size="10"
+            x="1413"
+            y="681"
+            dx="0"
+            
+        >车陂</text>
+        <text
+            font-size="10"
+            x="1384"
+            y="722"
+            dx="0"
+            
+        >车陂南</text>
+        <text
+            font-size="10"
+            x="1384"
+            y="829"
+            dx="0"
+            
+        >万胜围</text>
+        <text
+            font-size="10"
+            x="1385"
+            y="872"
+            dx="0"
+            
+        >官洲</text>
+        <text
+            font-size="10"
+            x="1409"
+            y="933"
+            dx="0"
+            
+        >大学城北</text>
+        <text
+            font-size="10"
+            x="1431"
+            y="954"
+            dx="0"
+            
+        >大学城南</text>
+        <text
+            font-size="10"
+            x="1448"
+            y="971"
+            dx="0"
+            
+        >新造</text>
+        <text
+            font-size="10"
+            x="1473"
+            y="995"
+            dx="0"
+            
+        >石碁</text>
+        <text
+            font-size="10"
+            x="1491"
+            y="1012"
+            dx="0"
+            
+        >海傍</text>
+        <text
+            font-size="10"
+            x="1508"
+            y="1029"
+            dx="0"
+            
+        >低涌</text>
+        <text
+            font-size="10"
+            x="1525"
+            y="1045"
+            dx="0"
+            
+        >东涌</text>
+        <text
+            font-size="10"
+            x="1542"
+            y="1062"
+            dx="0"
+            
+        >庆盛</text>
+        <text
+            font-size="10"
+            x="1559"
+            y="1079"
+            dx="0"
+            
+        >黄阁汽车城</text>
+        <text
+            font-size="10"
+            x="1577"
+            y="1095"
+            dx="0"
+            
+        >黄阁</text>
+        <text
+            font-size="10"
+            x="1594"
+            y="1112"
+            dx="0"
+            
+        >蕉门</text>
+        <text
+            font-size="10"
+            x="1611"
+            y="1129"
+            dx="0"
+            
+        >金洲</text>
+        <text
+            font-size="10"
+            x="1628"
+            y="1145"
+            dx="0"
+            
+        >飞沙角</text>
+        <text
+            font-size="10"
+            x="1644"
+            y="1161"
+            dx="0"
+            
+        >广隆</text>
+        <text
+            font-size="10"
+            x="1661"
+            y="1177"
+            dx="0"
+            
+        >大涌</text>
+        <text
+            font-size="10"
+            x="1684"
+            y="1197"
+            dx="-1.0em"
+            
+        >塘坑</text>
+        <text
+            font-size="10"
+            x="1717"
+            y="1197"
+            dx="-1.0em"
+            
+        >南横</text>
+        <text
+            font-size="10"
+            x="1769"
+            y="1167"
+            dx="0"
+            
+        >南沙客运港</text>
+        <text
+            font-size="10"
+            x="506"
+            y="694"
+            dx="0"
+            
+        >滘口</text>
+        <text
+            font-size="10"
+            x="596"
+            y="636"
+            dx="0"
+            
+        >坦尾</text>
+        <text
+            font-size="10"
+            x="641"
+            y="608"
+            dx="0"
+            
+        >中山八</text>
+        <text
+            font-size="10"
+            x="676"
+            y="585"
+            dx="0"
+            
+        >西场</text>
+        <text
+            font-size="10"
+            x="746"
+            y="577"
+            dx="0"
+            direction="rtl"
+        >西村</text>
+        <text
+            font-size="10"
+            x="946"
+            y="582"
+            dx="0"
+            
+        >小北</text>
+        <text
+            font-size="10"
+            x="992"
+            y="581"
+            dx="-1.0em"
+            
+        >淘金</text>
+        <text
+            font-size="10"
+            x="1036"
+            y="605"
+            dx="0"
+            direction="rtl"
+        >区庄</text>
+        <text
+            font-size="10"
+            x="1083"
+            y="582"
+            dx="-1.5em"
+            
+        >动物园</text>
+        <text
+            font-size="10"
+            x="1100"
+            y="682"
+            dx="0"
+            direction="rtl"
+        >五羊邨</text>
+        <text
+            font-size="10"
+            x="1226"
+            y="722"
+            dx="-1.0em"
+            
+        >猎德</text>
+        <text
+            font-size="10"
+            x="1271"
+            y="722"
+            dx="-1.0em"
+            
+        >潭村</text>
+        <text
+            font-size="10"
+            x="1300"
+            y="722"
+            dx="-1.0em"
+            
+        >员村</text>
+        <text
+            font-size="10"
+            x="1338"
+            y="722"
+            dx="-1.5em"
+            
+        >科韵路</text>
+        <text
+            font-size="10"
+            x="1439"
+            y="735"
+            dx="0"
+            
+        >东圃</text>
+        <text
+            font-size="10"
+            x="1463"
+            y="759"
+            dx="0"
+            
+        >三溪</text>
+        <text
+            font-size="10"
+            x="1500"
+            y="766"
+            dx="-1.0em"
+            
+        >鱼珠</text>
+        <text
+            font-size="10"
+            x="1532"
+            y="790"
+            dx="-1.5em"
+            
+        >大沙地</text>
+        <text
+            font-size="10"
+            x="1559"
+            y="766"
+            dx="-1.5em"
+            
+        >大沙东</text>
+        <text
+            font-size="10"
+            x="1589"
+            y="790"
+            dx="-1.0em"
+            
+        >文冲</text>
+        <text
+            font-size="10"
+            x="1613"
+            y="456"
+            dx="-1.0em"
+            
+        >香雪</text>
+        <text
+            font-size="10"
+            x="1586"
+            y="456"
+            dx="-1.0em"
+            
+        >萝岗</text>
+        <text
+            font-size="10"
+            x="1568"
+            y="480"
+            dx="0"
+            
+        >苏元</text>
+        <text
+            font-size="10"
+            x="1530"
+            y="456"
+            dx="-1.0em"
+            
+        >暹岗</text>
+        <text
+            font-size="10"
+            x="1501"
+            y="456"
+            dx="-1.0em"
+            
+        >金峰</text>
+        <text
+            font-size="10"
+            x="1474"
+            y="456"
+            dx="-1.0em"
+            
+        >黄陂</text>
+        <text
+            font-size="10"
+            x="1443"
+            y="456"
+            dx="-1.5em"
+            
+        >高塘石</text>
+        <text
+            font-size="10"
+            x="1414"
+            y="456"
+            dx="-1.5em"
+            
+        >柯木塱</text>
+        <text
+            font-size="10"
+            x="1384"
+            y="456"
+            dx="-1.0em"
+            
+        >龙洞</text>
+        <text
+            font-size="10"
+            x="1330"
+            y="461"
+            dx="0"
+            direction="rtl"
+        >植物园</text>
+        <text
+            font-size="10"
+            x="1327"
+            y="492"
+            dx="0"
+            
+        >长湴</text>
+        <text
+            font-size="10"
+            x="1120"
+            y="522"
+            dx="-1.5em"
+            
+        >天平架</text>
+        <text
+            font-size="10"
+            x="1056"
+            y="540"
+            dx="0"
+            
+        >沙河顶</text>
+        <text
+            font-size="10"
+            x="1036"
+            y="569"
+            dx="0"
+            direction="rtl"
+        >黄花岗</text>
+        <text
+            font-size="10"
+            x="1016"
+            y="721"
+            dx="-1.0em"
+            
+        >东湖</text>
+        <text
+            font-size="10"
+            x="974"
+            y="697"
+            dx="-2.5em"
+            
+        >团一大广场</text>
+        <text
+            font-size="10"
+            x="932"
+            y="721"
+            dx="-1.5em"
+            
+        >北京路</text>
+        <text
+            font-size="10"
+            x="819"
+            y="721"
+            dx="-1.5em"
+            
+        >一德路</text>
+        <text
+            font-size="10"
+            x="749"
+            y="721"
+            dx="0"
+            direction="rtl"
+        >文化公园</text>
+        <text
+            font-size="10"
+            x="622"
+            y="690"
+            dx="0"
+            
+        >如意坊</text>
+        <text
+            font-size="10"
+            x="575"
+            y="610"
+            dx="0"
+            direction="rtl"
+        >河沙</text>
+        <text
+            font-size="10"
+            x="576"
+            y="564"
+            dx="0"
+            
+        >沙贝</text>
+        <text
+            font-size="10"
+            x="548"
+            y="534"
+            dx="0"
+            
+        >横沙</text>
+        <text
+            font-size="10"
+            x="518"
+            y="504"
+            dx="0"
+            
+        >浔峰岗</text>
+        <text
+            font-size="10"
+            x="1373"
+            y="997"
+            dx="0"
+            
+        >板桥</text>
+        <text
+            font-size="10"
+            x="1318"
+            y="1033"
+            dx="-1.0em"
+            
+        >员岗</text>
+        <text
+            font-size="10"
+            x="1262"
+            y="1009"
+            dx="0"
+            
+        >南村万博</text>
+        <text
+            font-size="10"
+            x="1096"
+            y="1034"
+            dx="-1.0em"
+            
+        >钟村</text>
+        <text
+            font-size="10"
+            x="1032"
+            y="1034"
+            dx="-1.0em"
+            
+        >谢村</text>
+        <text
+            font-size="10"
+            x="638"
+            y="279"
+            dx="0"
+            
+        >滘心</text>
+        <text
+            font-size="10"
+            x="681"
+            y="301"
+            dx="0"
+            
+        >亭岗</text>
+        <text
+            font-size="10"
+            x="721"
+            y="321"
+            dx="0"
+            
+        >石井</text>
+        <text
+            font-size="10"
+            x="765"
+            y="368"
+            dx="0"
+            
+        >小坪</text>
+        <text
+            font-size="10"
+            x="766"
+            y="398"
+            dx="0"
+            
+        >石潭</text>
+        <text
+            font-size="10"
+            x="766"
+            y="434"
+            dx="0"
+            
+        >聚龙</text>
+        <text
+            font-size="10"
+            x="765"
+            y="469"
+            dx="0"
+            
+        >上步</text>
+        <text
+            font-size="10"
+            x="766"
+            y="507"
+            dx="0"
+            
+        >同德</text>
+        <text
+            font-size="10"
+            x="766"
+            y="540"
+            dx="0"
+            
+        >鹅掌坦</text>
+        <text
+            font-size="10"
+            x="769"
+            y="690"
+            dx="0"
+            
+        >华林寺</text>
+        <text
+            font-size="10"
+            x="792"
+            y="749"
+            dx="0"
+            
+        >同福西</text>
+        <text
+            font-size="10"
+            x="817"
+            y="790"
+            dx="0"
+            
+        >凤凰新村</text>
+        <text
+            font-size="10"
+            x="819"
+            y="836"
+            dx="0"
+            direction="rtl"
+        >沙园</text>
+        <text
+            font-size="10"
+            x="864"
+            y="838"
+            dx="-2.0em"
+            
+        >宝岗大道</text>
+        <text
+            font-size="10"
+            x="962"
+            y="838"
+            dx="-1.0em"
+            
+        >晓港</text>
+        <text
+            font-size="10"
+            x="1033"
+            y="839"
+            dx="-1.0em"
+            
+        >中大</text>
+        <text
+            font-size="10"
+            x="1104"
+            y="839"
+            dx="-1.0em"
+            
+        >鹭江</text>
+        <text
+            font-size="10"
+            x="1211"
+            y="839"
+            dx="-1.0em"
+            
+        >赤岗</text>
+        <text
+            font-size="10"
+            x="1261"
+            y="815"
+            dx="0"
+            
+        >磨碟沙</text>
+        <text
+            font-size="10"
+            x="1294"
+            y="839"
+            dx="-1.5em"
+            
+        >新港东</text>
+        <text
+            font-size="10"
+            x="1336"
+            y="839"
+            dx="-1.0em"
+            
+        >琶洲</text>
+        <text
+            font-size="10"
+            x="1021"
+            y="210"
+            dx="-1.0em"
+            
+        >清塘</text>
+        <text
+            font-size="10"
+            x="967"
+            y="234"
+            dx="-1.0em"
+            
+        >清布</text>
+        <text
+            font-size="10"
+            x="930"
+            y="205"
+            dx="0"
+            
+        >莲塘</text>
+        <text
+            font-size="10"
+            x="882"
+            y="176"
+            dx="-2.5em"
+            
+        >马鞍山公园</text>
+        <text
+            font-size="10"
+            x="835"
+            y="176"
+            dx="-2.0em"
+            
+        >花都广场</text>
+        <text
+            font-size="10"
+            x="804"
+            y="208"
+            dx="0"
+            
+        >花果山公园</text>
+        <text
+            font-size="10"
+            x="752"
+            y="234"
+            dx="-1.5em"
+            
+        >花城路</text>
+        <text
+            font-size="10"
+            x="709"
+            y="210"
+            dx="-2.0em"
+            
+        >广州北站</text>
+        <text
+            font-size="10"
+            x="663"
+            y="234"
+            dx="-2.5em"
+            
+        >花都汽车城</text>
+        <text
+            font-size="10"
+            x="615"
+            y="210"
+            dx="-1.5em"
+            
+        >飞鹅岭</text>
+        <text
+            font-size="10"
+            x="1551"
+            y="835"
+            dx="-1.5em"
+            
+        >裕丰围</text>
+        <text
+            font-size="10"
+            x="1587"
+            y="835"
+            dx="-1.0em"
+            
+        >双岗</text>
+        <text
+            font-size="10"
+            x="1621"
+            y="835"
+            dx="-2.0em"
+            
+        >南海神庙</text>
+        <text
+            font-size="10"
+            x="1658"
+            y="835"
+            dx="-1.0em"
+            
+        >夏园</text>
+        <text
+            font-size="10"
+            x="1707"
+            y="810"
+            dx="0"
+            
+        >南岗</text>
+        <text
+            font-size="10"
+            x="1732"
+            y="793"
+            dx="0"
+            
+        >沙村</text>
+        <text
+            font-size="10"
+            x="1759"
+            y="775"
+            dx="0"
+            
+        >白江</text>
+        <text
+            font-size="10"
+            x="1800"
+            y="748"
+            dx="-1.0em"
+            
+        >新塘</text>
+        <text
+            font-size="10"
+            x="1840"
+            y="748"
+            dx="-1.0em"
+            
+        >官湖</text>
+        <text
+            font-size="10"
+            x="1880"
+            y="748"
+            dx="-1.0em"
+            
+        >新沙</text>
+        <text
+            font-size="10"
+            x="1148"
+            y="347"
+            dx="0"
+            
+        >白云东平</text>
+        <text
+            font-size="10"
+            x="1161"
+            y="325"
+            dx="0"
+            
+        >夏良</text>
+        <text
+            font-size="10"
+            x="1184"
+            y="292"
+            dx="0"
+            
+        >太和</text>
+        <text
+            font-size="10"
+            x="1204"
+            y="265"
+            dx="0"
+            
+        >竹料</text>
+        <text
+            font-size="10"
+            x="1227"
+            y="232"
+            dx="0"
+            
+        >钟落潭</text>
+        <text
+            font-size="10"
+            x="1249"
+            y="202"
+            dx="0"
+            
+        >马沥</text>
+        <text
+            font-size="10"
+            x="1252"
+            y="158"
+            dx="0"
+            direction="rtl"
+        >新和</text>
+        <text
+            font-size="10"
+            x="1294"
+            y="142"
+            dx="0"
+            
+        >太平</text>
+        <text
+            font-size="10"
+            x="1316"
+            y="109"
+            dx="0"
+            
+        >神岗</text>
+        <text
+            font-size="10"
+            x="1341"
+            y="73"
+            dx="0"
+            
+        >赤草</text>
+        <text
+            font-size="10"
+            x="1365"
+            y="40"
+            dx="0"
+            
+        >从化客运站</text>
+        <text
+            font-size="10"
+            x="1390"
+            y="4"
+            dx="0"
+            
+        >东风</text>
+        <text
+            font-size="10"
+            x="1303"
+            y="191"
+            dx="0"
+            
+        >红卫</text>
+        <text
+            font-size="10"
+            x="1331"
+            y="210"
+            dx="0"
+            
+        >新南</text>
+        <text
+            font-size="10"
+            x="1362"
+            y="230"
+            dx="0"
+            
+        >枫下</text>
+        <text
+            font-size="10"
+            x="1394"
+            y="250"
+            dx="0"
+            
+        >知识城</text>
+        <text
+            font-size="10"
+            x="1425"
+            y="270"
+            dx="0"
+            
+        >何棠下</text>
+        <text
+            font-size="10"
+            x="1456"
+            y="290"
+            dx="0"
+            
+        >旺村</text>
+        <text
+            font-size="10"
+            x="1489"
+            y="311"
+            dx="0"
+            
+        >汤村</text>
+        <text
+            font-size="10"
+            x="1521"
+            y="332"
+            dx="0"
+            
+        >镇龙北</text>
+        <text
+            font-size="10"
+            x="1574"
+            y="330"
+            dx="-1.0em"
+            
+        >镇龙</text>
+        <text
+            font-size="10"
+            x="1260"
+            y="691"
+            dx="0"
+            
+        >冼村</text>
+        <text
+            font-size="10"
+            x="1261"
+            y="905"
+            dx="0"
+            
+        >龙潭</text>
+        <text
+            font-size="10"
+            x="1262"
+            y="987"
+            dx="0"
+            
+        >沙溪</text>
+        <text
+            font-size="10"
+            x="1263"
+            y="1116"
+            dx="0"
+            
+        >横沥</text>
+        <text
+            font-size="10"
+            x="1263"
+            y="1137"
+            dx="0"
+            
+        >万顷沙</text>
+        <text
+            font-size="10"
+            x="1310"
+            y="683"
+            dx="0"
+            
+        >天河公园</text>
+        <text
+            font-size="10"
+            x="1361"
+            y="639"
+            dx="-1.0em"
+            
+        >棠东</text>
+        <text
+            font-size="10"
+            x="1438"
+            y="608"
+            dx="0"
+            
+        >大观南路</text>
+        <text
+            font-size="10"
+            x="1438"
+            y="566"
+            dx="0"
+            
+        >天河智慧城</text>
+        <text
+            font-size="10"
+            x="1466"
+            y="509"
+            dx="-1.5em"
+            
+        >神舟路</text>
+        <text
+            font-size="10"
+            x="1512"
+            y="509"
+            dx="-1.5em"
+            
+        >科学城</text>
+        <text
+            font-size="10"
+            x="1567"
+            y="442"
+            dx="0"
+            
+        >水西</text>
+        <text
+            font-size="10"
+            x="1566"
+            y="414"
+            dx="0"
+            
+        >长平</text>
+        <text
+            font-size="10"
+            x="1566"
+            y="390"
+            dx="0"
+            
+        >金坑</text>
+        <text
+            font-size="10"
+            x="1565"
+            y="362"
+            dx="0"
+            
+        >镇龙西</text>
+        <text
+            font-size="10"
+            x="1617"
+            y="354"
+            dx="-1.0em"
+            
+        >中新</text>
+        <text
+            font-size="10"
+            x="1659"
+            y="330"
+            dx="-1.0em"
+            
+        >坑贝</text>
+        <text
+            font-size="10"
+            x="1703"
+            y="354"
+            dx="-1.0em"
+            
+        >凤岗</text>
+        <text
+            font-size="10"
+            x="1746"
+            y="330"
+            dx="-1.0em"
+            
+        >朱村</text>
+        <text
+            font-size="10"
+            x="1786"
+            y="354"
+            dx="-1.0em"
+            
+        >山田</text>
+        <text
+            font-size="10"
+            x="1830"
+            y="330"
+            dx="-1.0em"
+            
+        >钟岗</text>
+        <text
+            font-size="10"
+            x="1873"
+            y="354"
+            dx="-2.0em"
+            
+        >增城广场</text>
+        <text
+            font-size="10"
+            x="1208"
+            y="772"
+            dx="0"
+            
+        >海心沙</text>
+        <text
+            font-size="10"
+            x="1208"
+            y="755"
+            dx="0"
+            
+        >大剧院</text>
+        <text
+            font-size="10"
+            x="1208"
+            y="737"
+            dx="0"
+            
+        >花城大道</text>
+        <text
+            font-size="10"
+            x="1207"
+            y="691"
+            dx="0"
+            
+        >妇儿中心</text>
+        <text
+            font-size="10"
+            x="1207"
+            y="671"
+            dx="0"
+            
+        >黄埔大道</text>
+        <text
+            font-size="10"
+            x="1207"
+            y="639"
+            dx="0"
+            
+        >天河南</text>
+        <text
+            font-size="10"
+            x="1207"
+            y="614"
+            dx="0"
+            
+        >体育中心南</text>
+        <text
+            font-size="10"
+            x="878"
+            y="904"
+            dx="-1.0em"
+            
+        >石溪</text>
+        <text
+            font-size="10"
+            x="845"
+            y="878"
+            dx="0"
+            
+        >燕岗</text>
+        <text
+            font-size="10"
+            x="782"
+            y="831"
+            dx="-1.0em"
+            
+        >沙涌</text>
+        <text
+            font-size="10"
+            x="738"
+            y="831"
+            dx="-1.0em"
+            
+        >鹤洞</text>
+        <text
+            font-size="10"
+            x="628"
+            y="832"
+            dx="-1.0em"
+            
+        >菊树</text>
+        <text
+            font-size="10"
+            x="575"
+            y="832"
+            dx="-1.0em"
+            
+        >龙溪</text>
+        <text
+            font-size="10"
+            x="522"
+            y="808"
+            dx="-2.5em"
+            
+        >金融高新区</text>
+        <text
+            font-size="10"
+            x="499"
+            y="850"
+            dx="0"
+            
+        >千灯湖</text>
+        <text
+            font-size="10"
+            x="499"
+            y="886"
+            dx="0"
+            
+        >礌岗</text>
+        <text
+            font-size="10"
+            x="499"
+            y="920"
+            dx="0"
+            
+        >南桂路</text>
+        <text
+            font-size="10"
+            x="446"
+            y="958"
+            dx="-1.0em"
+            
+        >桂城</text>
+        <text
+            font-size="10"
+            x="399"
+            y="958"
+            dx="-1.0em"
+            
+        >朝安</text>
+        <text
+            font-size="10"
+            x="354"
+            y="934"
+            dx="-2.0em"
+            
+        >普君北路</text>
+        <text
+            font-size="10"
+            x="334"
+            y="970"
+            dx="0"
+            
+        >祖庙</text>
+        <text
+            font-size="10"
+            x="335"
+            y="1017"
+            dx="0"
+            
+        >同济路</text>
+        <text
+            font-size="10"
+            x="335"
+            y="1056"
+            dx="0"
+            
+        >季华园</text>
+        <text
+            font-size="10"
+            x="335"
+            y="1132"
+            dx="0"
+            
+        >澜石</text>
+        <text
+            font-size="10"
+            x="356"
+            y="1150"
+            dx="-1.5em"
+            
+        >世纪莲</text>
+        <text
+            font-size="10"
+            x="406"
+            y="1150"
+            dx="-1.0em"
+            
+        >东平</text>
+        <text
+            font-size="10"
+            x="453"
+            y="1150"
+            dx="-1.5em"
+            
+        >新城东</text>
+        
+  </svg>
+</svg>
